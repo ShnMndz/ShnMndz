@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShnMndz
 - 👀 I’m interested in you
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Json Derulo
 - 💞️ I’m looking to collaborate on NASA
 - 📫 How to reach me? call me 
 
