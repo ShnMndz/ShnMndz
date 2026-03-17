@@ -23,8 +23,8 @@
 ---
 
 ## 📂 Projects
-### 🚗 Car Dealership System
-- Full-stack web app for managing vehicles
+### 🚗 CITIMOTORS WEB
+- mini sample project for my internship
 - Features: Admin dashboard, vehicle listings, test drive form
 
 👉 (Add your repo link here)
@@ -32,7 +32,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shane Mendoza&show_icons=true&theme=radical)
+![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShnMndz&show_icons=true&theme=radical)
 
 ---
 
