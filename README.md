@@ -32,10 +32,10 @@
 ---
 
 ## 📊 GitHub Stats
-![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shane Mendoza&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Contact Me
-- Email: your@email.com
-- LinkedIn: (optional)
+- Email: norwinmendoza77@gmail.com
+- LinkedIn: 
