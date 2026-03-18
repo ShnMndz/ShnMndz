@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on: Car Dealership Website (React + Node.js)
+- 🔭 I’m a aspiring junior web developer
 - 🌱 Learning: React Native, API Integration
 - 🎯 Goal: Become a full-stack developer
 - ⚡ Fun fact: I love cars and coding
