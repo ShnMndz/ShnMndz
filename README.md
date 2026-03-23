@@ -8,9 +8,9 @@
 
 ## 🚀 About Me
 - 🔭 I’m a aspiring junior web developer
-- 🌱 Learning: React Native, API Integration
+- 🌱 Learning: Python, Javascript, React Native, Php
 - 🎯 Goal: Become a full-stack developer
-- ⚡ Fun fact: I love cars and coding
+- ⚡ Fun fact: I love cats and coding
 
 ---
 
