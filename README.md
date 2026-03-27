@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m a aspiring junior web developer
+- 🔭 I’m a aspiring junior web designer
 - 🌱 Learning: Python, Javascript, React Native, PHP
 - 🎯 Goal: Become a full-stack developer
 - ⚡ Fun fact: I love cats and coding
