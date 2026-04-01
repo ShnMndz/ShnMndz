@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shane Mendoza
 
-💻 IT Student | Aspiring Full-Stack Developer  
+💻 IT Student | Aspiring Web-Designer
 🚗 Currently building a Car Dealership System  
 📍 Philippines  
 
