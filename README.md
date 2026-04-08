@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Shane Mendoza
 
-💻 IT Student | Aspiring Web-Designer
-🚗 Currently building a Car Dealership System  
+💻 IT Student | Aspiring Web-Designer 
 📍 Philippines  
 
 ---
