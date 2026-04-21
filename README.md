@@ -37,4 +37,6 @@
 
 ## 📫 Contact Me
 - Email: norwinmendoza77@gmail.com
-- LinkedIn: 
+- LinkedIn:
+
+- shields.io
