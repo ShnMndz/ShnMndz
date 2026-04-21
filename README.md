@@ -49,7 +49,7 @@
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] Ship a complete full-stack project
 - [ ] Finish React Native basics
