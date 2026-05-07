@@ -1,71 +1,90 @@
-<h1>👋 Hi, I'm Shane Mendoza</h1>
+<div align="center">
 
-💻 IT Student | Aspiring Full-Stack Developer &nbsp;·&nbsp; 📍 Philippines
+# Shane Mendoza 👋
 
----
+### 💻 IT Student • Aspiring Full-Stack Developer  
+📍 Philippines
 
-## 🚀 About Me
+<br>
 
-| | |
-|---|---|
-| 🔭 | Currently building **Citimotors Web** for my internship |
-| 🌱 | Learning: Python, JavaScript, React Native, PHP |
-| 🎯 | Goal: Become a full-stack developer |
-| ⚡ | Fun fact: I love cats and coding equally |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-**Database & Tools**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+</div>
 
 ---
 
-## 📂 Featured Projects
+# 🚀 About Me
 
-### 🚗 Citimotors Web
-> Dealership web app built during internship
+- 🔭 Currently building **Citimotors Web** for my internship
+- 🌱 Learning **Python, JavaScript, React Native, and PHP**
+- 🎯 Goal: Become a professional full-stack developer
+- ⚡ Fun fact: I love cats and coding equally 🐱
 
-- Admin dashboard with vehicle and user management
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+# 📂 Featured Project
+
+## 🚗 Citimotors Web
+
+Dealership web application developed during internship.
+
+### Features
+- Admin dashboard with vehicle & user management
 - Vehicle listings with model breakdown
-- Test drive request form
-- **Stack:** HTML · CSS · JavaScript · Node.js
+- Test drive request system
 
-[🔗 View Repo](#) &nbsp; [🌐 Live Demo](#)
+### Tech Stack
+`HTML` `CSS` `JavaScript` `Node.js`
 
----
-
-## 🎯 2026 Goals
-
-- [ ] Ship a complete full-stack project
-- [ ] Finish React Native basics
-- [ ] Contribute to an open source project
-- [ ] Build a personal portfolio site
+[🔗 View Repository](#) • [🌐 Live Demo](#)
 
 ---
 
-## 📊 GitHub Stats
+# 🎯 2026 Goals
 
-![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShnMndz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShnMndz&layout=compact&theme=radical)
+- 🚀 Ship a complete full-stack project
+- 📱 Finish React Native fundamentals
+- 🌍 Contribute to open source
+- 🎨 Build a personal portfolio website
 
 ---
 
-## 📬 Connect With Me
+# 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+<div align="center">
+
+![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShnMndz&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShnMndz&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile 👨‍💻
+
+</div>
